@@ -7,6 +7,7 @@ def get_weather(city):
 
     response = requests.get(url)
     data = response.json()
+    
 
     if data["cod"] != 200:
         print("❌ City not found. Please try again.")
@@ -17,16 +18,16 @@ def get_weather(city):
     wind = data["wind"]["speed"]
     description = data["weather"][0]["description"]
 
-    print(f"\n📍 Weather in {city}")
-    print(f"🌡 Temperature: {temp}°C")
-    print(f"☁️ Condition: {description}")
-    print(f"💧 Humidity: {humidity}%")
-    print(f"🌬 Wind Speed: {wind} m/s")
+    print(f"\nWeather in {city}")
+    print(f"Temperature: {temp}°C")
+    print(f"Condition: {description}")
+    print(f"Humidity: {humidity}%")
+    print(f"Wind Speed: {wind} m/s")
 
 
 def main():
     while True:
-        city = input("\nEnter city name (or 'exit' to quit): ")
+        city = input("\nEnter city name: ")
 
         if city.lower() == "exit":
             print("Goodbye!")
