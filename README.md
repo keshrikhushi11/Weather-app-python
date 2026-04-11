@@ -1,11 +1,11 @@
-# 🌦️ Weather App (Python)
+# Weather App (Python)
 
 A simple and interactive command-line Weather Application built using Python.  
 It fetches real-time weather data using the OpenWeatherMap API.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🌍 Get real-time weather by city name  
 - 🌡 Displays temperature in Celsius  
@@ -15,15 +15,15 @@ It fetches real-time weather data using the OpenWeatherMap API.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- Python 🐍  
+- Python
 - Requests Library  
 - OpenWeatherMap API  
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2b356f5c-ac5e-4469-b46f-27f84bf63536" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1adc87e0-3cbb-4256-af2e-d4629523a2b5" />
