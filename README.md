@@ -28,5 +28,5 @@ It fetches real-time weather data using the OpenWeatherMap API.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2b356f5c-ac5e-4469-b46f-27f84bf63536" />
 
 ---
-Here, when you will enter the city name then it will show Temperature,Climate,Humidity and so on..As you seen in the below image.
+Here, when you will enter the city name then it will show Weather of the city,Temperature,Humidity,Condition and Wind speed..As you see in the below image.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1adc87e0-3cbb-4256-af2e-d4629523a2b5" />
