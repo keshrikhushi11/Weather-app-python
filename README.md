@@ -9,7 +9,7 @@ It fetches real-time weather data using the OpenWeatherMap API.
 
 -  Get real-time weather by city name  
 -  Displays temperature in Celsius  
--  Shows weather condition (clear, cloudy, etc.)  
+-  Shows weather condition (clear, cloudy, etc.)
 -  Humidity and wind speed details  
 -  Handles invalid city input gracefully  
 
