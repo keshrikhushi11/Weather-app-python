@@ -1,6 +1,6 @@
 ## Weather App (Python)
 
-A simple and interactive command-line Weather Application built using Python.  
+A simple and interactive command-line Weather Application built using Python. 
 It fetches real-time weather data using the OpenWeatherMap API.
 
 ---
